@@ -6,4 +6,4 @@ http.createServer(function(request, response) {
     response.end();
 }).listen(8888);
 
-hello
+h
